@@ -3,7 +3,7 @@
     jcr:description="Landing page for the 'Pet Clinic' project."
     jcr:primaryType="cq:Template"
     jcr:title="Pet Clinic Landing Page"
-    allowedPaths="[/content(/.*)?]"
+    allowedPaths="[/content/homepage(/.*)?]"
     ranking="{Long}3">
     <jcr:content
         cq:designPath="/etc/designs/petclinic"
