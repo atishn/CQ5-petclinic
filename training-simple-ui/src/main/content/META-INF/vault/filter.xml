@@ -7,6 +7,5 @@
     </filter>
     <filter root="/etc/clientlibs/petclinic"/>
 	<filter root="/etc/designs/petclinic">
-        <exclude pattern="/etc/designs/petclinic/jcr:content.*"/>
     </filter>
 </workspaceFilter>
