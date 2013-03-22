@@ -4,6 +4,7 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Osmorc" url="file://$PROJECT_DIR$/petclinic-common-bundles" />
     <file type="Osmorc" url="file://$PROJECT_DIR$/training-simple-common" />
   </component>
   <component name="IdProvider" IDEtalkID="F0FF0E24EF8F288F189924C03DFD3F1E" />

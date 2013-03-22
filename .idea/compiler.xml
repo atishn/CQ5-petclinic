@@ -22,14 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="petclinic-common-bundles" />
         <module name="training-simple-assemble" />
         <module name="training-simple-common" />
+        <module name="training-simple-common (1)" />
         <module name="training-simple-ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="petclinic-common-bundles" target="1.6" />
       <module name="training-simple-assemble" target="1.6" />
       <module name="training-simple-common" target="1.6" />
+      <module name="training-simple-common (1)" target="1.6" />
       <module name="training-simple-example" target="1.6" />
       <module name="training-simple-ui" target="1.6" />
     </bytecodeTargetLevel>

@@ -35,6 +35,11 @@
             <artifactId>training-simple-common</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>petclinic-common-bundle</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -48,13 +53,19 @@
                             <goal>package</goal>
                         </goals>
                         <configuration>
-                            <embeddedTarget>/apps/cqblueprints-example/install</embeddedTarget>
+                            <embeddedTarget>/apps/petclinic/install</embeddedTarget>
                             <embeddeds>
                                 <embedded>
                                     <groupId>${project.groupId}</groupId>
                                     <artifactId>training-simple-common</artifactId>
                                     <filter>true</filter>
                                 </embedded>
+                                <embedded>
+                                    <groupId>${project.groupId}</groupId>
+                                    <artifactId>petclinic-common-bundle</artifactId>
+                                    <filter>true</filter>
+                                </embedded>
+
                             </embeddeds>
                             <subPackages>
                                 <subPackage>

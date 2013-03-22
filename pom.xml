@@ -27,8 +27,9 @@
     <modules>
         <module>training-simple-ui</module>
         <module>training-simple-common</module>
+        <module>petclinic-common-bundles</module>
         <module>training-simple-assemble</module>
-  </modules>
+    </modules>
 
     <dependencyManagement>
         <dependencies>
