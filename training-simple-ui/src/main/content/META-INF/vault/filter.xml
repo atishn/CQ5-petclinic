@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter version="1.0">
+    <filter root="/apps/petclinic">
+        <exclude pattern="/apps/petclinic/install.*"/>
+        <exclude pattern="/apps/petclinic/runmodes.*"/>
+    </filter>
+    <filter root="/etc/clientlibs/petclinic"/>
+	<filter root="/etc/designs/petclinic">
+        <exclude pattern="/etc/designs/petclinic/jcr:content.*"/>
+    </filter>
+</workspaceFilter>

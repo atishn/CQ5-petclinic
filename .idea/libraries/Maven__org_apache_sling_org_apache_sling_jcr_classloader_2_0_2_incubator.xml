@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.sling:org.apache.sling.jcr.classloader:2.0.2-incubator">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/org/apache/sling/org.apache.sling.jcr.classloader/2.0.2-incubator/org.apache.sling.jcr.classloader-2.0.2-incubator.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/org/apache/sling/org.apache.sling.jcr.classloader/2.0.2-incubator/org.apache.sling.jcr.classloader-2.0.2-incubator-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/org/apache/sling/org.apache.sling.jcr.classloader/2.0.2-incubator/org.apache.sling.jcr.classloader-2.0.2-incubator-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
