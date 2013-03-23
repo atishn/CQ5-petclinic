@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.training.simple - training-simple-assemble</comment>
+<entry key="createdBy">anarlawar</entry>
+<entry key="name">training-simple-assemble</entry>
+<entry key="created">2013-03-22T17:28:47.149-0400</entry>
+<entry key="groupId">com.training.simple</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.training.simple</entry>
+<entry key="description">Builds a CQ package containing content and osgi bundle.</entry>
+<entry key="artifactId">training-simple-assemble</entry>
+<entry key="path">/etc/packages/com.training.simple/training-simple-assemble.zip</entry>
+</properties>

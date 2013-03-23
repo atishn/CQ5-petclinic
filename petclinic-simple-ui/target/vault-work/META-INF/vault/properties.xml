@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.training.simple - training-simple-ui</comment>
+<entry key="createdBy">anarlawar</entry>
+<entry key="name">training-simple-ui</entry>
+<entry key="created">2013-03-22T17:28:43.368-0400</entry>
+<entry key="groupId">com.training.simple</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.training.simple</entry>
+<entry key="description">CQ content.</entry>
+<entry key="artifactId">training-simple-ui</entry>
+<entry key="path">/etc/packages/com.training.simple/training-simple-ui.zip</entry>
+</properties>

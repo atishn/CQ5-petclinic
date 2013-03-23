@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/petclinic/install/training-simple-common-1.0.0-SNAPSHOT.jar" />
+    <filter root="/apps/petclinic/install/petclinic-common-bundle-1.0.0-SNAPSHOT.jar" />
+    <filter root="/etc/packages/com.training.simple/training-simple-ui-1.0.0-SNAPSHOT.zip" />
+</workspaceFilter>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/metatype">
+    <OCD id="com.cqblueprints.example.services.GoodbyeWorldService" name="%com.cqblueprints.example.services.GoodbyeWorldService.name" description="%com.cqblueprints.example.services.GoodbyeWorldService.description"/>
+    <Designate pid="com.cqblueprints.example.services.GoodbyeWorldService">
+        <Object ocdref="com.cqblueprints.example.services.GoodbyeWorldService"/>
+    </Designate>
+</metatype:MetaData>
