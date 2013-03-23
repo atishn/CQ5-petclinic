@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/petclinic-common-bundles/training-simple-common (1).iml" filepath="$PROJECT_DIR$/petclinic-common-bundles/training-simple-common (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/training-simple-assemble/training-simple-assemble.iml" filepath="$PROJECT_DIR$/training-simple-assemble/training-simple-assemble.iml" />
-      <module fileurl="file://$PROJECT_DIR$/training-simple-common/training-simple-common.iml" filepath="$PROJECT_DIR$/training-simple-common/training-simple-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/training-simple-example.iml" filepath="$PROJECT_DIR$/training-simple-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/training-simple-ui/training-simple-ui.iml" filepath="$PROJECT_DIR$/training-simple-ui/training-simple-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petclinic-simple-assemble/petclinic-simple-assemble.iml" filepath="$PROJECT_DIR$/petclinic-simple-assemble/petclinic-simple-assemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petclinic-simple-common/petclinic-simple-common.iml" filepath="$PROJECT_DIR$/petclinic-simple-common/petclinic-simple-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petclinic-simple-example.iml" filepath="$PROJECT_DIR$/petclinic-simple-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petclinic-simple-ui/petclinic-simple-ui.iml" filepath="$PROJECT_DIR$/petclinic-simple-ui/petclinic-simple-ui.iml" />
     </modules>
   </component>
 </project>

@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.training.simple</groupId>
-    <artifactId>training-simple-example</artifactId>
+    <artifactId>petclinic-simple-example</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -25,10 +25,10 @@
     </properties>
 
     <modules>
-        <module>training-simple-ui</module>
-        <module>training-simple-common</module>
+        <module>petclinic-simple-ui</module>
+        <module>petclinic-simple-common</module>
         <module>petclinic-common-bundles</module>
-        <module>training-simple-assemble</module>
+        <module>petclinic-simple-assemble</module>
     </modules>
 
     <dependencyManagement>

@@ -23,6 +23,9 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="petclinic-common-bundles" />
+        <module name="petclinic-simple-assemble" />
+        <module name="petclinic-simple-common" />
+        <module name="petclinic-simple-ui" />
         <module name="training-simple-assemble" />
         <module name="training-simple-common" />
         <module name="training-simple-common (1)" />
@@ -31,6 +34,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="petclinic-common-bundles" target="1.6" />
+      <module name="petclinic-simple-assemble" target="1.6" />
+      <module name="petclinic-simple-common" target="1.6" />
+      <module name="petclinic-simple-example" target="1.6" />
+      <module name="petclinic-simple-ui" target="1.6" />
       <module name="training-simple-assemble" target="1.6" />
       <module name="training-simple-common" target="1.6" />
       <module name="training-simple-common (1)" target="1.6" />
